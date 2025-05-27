@@ -16,7 +16,7 @@ Delete a pasta `src` e crie ela vazia, seguindo os códigos [Tutorial para front
 
 Na pasta blog-app rode os seguintes comandos:
 
-`npm install`
+`npm install react-router-dom axios cors`
 
 `npm run build`
 
