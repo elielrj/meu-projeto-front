@@ -11,8 +11,8 @@ Na pasta blog-app rode os seguintes comandos:
 
 `npm install`
 
-`npm install start`
-
 `npm run build`
 
 `npm start`
+
+### Para iniciar do zero, é só ir no projeto [meu-projeto](https://github.com/elielrj/meu-projeto "Backend") e inicializar o Backend.
