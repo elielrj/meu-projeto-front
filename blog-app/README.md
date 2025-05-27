@@ -12,3 +12,7 @@ Na pasta blog-app rode os seguintes comandos:
 `npm install`
 
 `npm install start`
+
+`npm run build`
+
+`npm start`
